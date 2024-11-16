@@ -1,0 +1,6 @@
+@WebAssignment_Quiz__HostAddress = http://localhost:5265
+
+GET {{WebAssignment_Quiz__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
